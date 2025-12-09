@@ -1,0 +1,12 @@
+[
+  {"name":"datr","value":"hycsaZJPy_OAhFVn-RTqu0VO","domain":".instagram.com","path":"/","secure":true,"httpOnly":false},
+  {"name":"ig_did","value":"404419D8-553D-462A-8419-510FF2FF5AEF","domain":".instagram.com","path":"/","secure":true,"httpOnly":false},
+  {"name":"dpr","value":"1.25","domain":".instagram.com","path":"/","secure":true,"httpOnly":false},
+  {"name":"ig_nrcb","value":"1","domain":".instagram.com","path":"/","secure":true,"httpOnly":false},
+  {"name":"mid","value":"aS9l2wALAAF1BgZjUIklTyqwOaiR","domain":".instagram.com","path":"/","secure":true,"httpOnly":false},
+  {"name":"wd","value":"1536x791","domain":".instagram.com","path":"/","secure":true,"httpOnly":false},
+  {"name":"csrftoken","value":"Yr7YpfpfLzoorLSxJVYkMkDcNi8IV013","domain":".instagram.com","path":"/","secure":true,"httpOnly":false},
+  {"name":"ds_user_id","value":"78315257002","domain":".instagram.com","path":"/","secure":true,"httpOnly":false},
+  {"name":"sessionid","value":"78315257002%3AxzTAJKTEm9Av06%3A4%3AAYj3DrXE0Ytl4fqSfkOSs__1rIGtfdTl4UI1XcdkGw","domain":".instagram.com","path":"/","secure":true,"httpOnly":true},
+  {"name":"rur","value":"\"RVA\\05478315257002\\0541796811207:01feac6b938a1dfcd28ce4c266ffc12ab1c203657c9e7afa58b89ed575a69cab324bc6b8\"","domain":".instagram.com","path":"/","secure":true,"httpOnly":false}
+]
